@@ -17,4 +17,5 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-4049d39?style=flat-square&logo=javascript&logoColor=white"/>
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-007ACC?style=flat-square&logo=linux&logoColor=white"/>
     <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-43853d?style=flat-square&logo=solidity&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 </p>
