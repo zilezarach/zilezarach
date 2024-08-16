@@ -15,5 +15,5 @@
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-4049d39?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="Arch" src="https://img.shields.io/badge/-Arch-3023d20?style=flat-square&logo=arch&logoColor=white"/>
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-3023d20?style=flat-square&logo=linux&logoColor=white"/>
 </p>
