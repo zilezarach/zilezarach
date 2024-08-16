@@ -1,4 +1,4 @@
-<h1 align='center'>Konnichiwa!!<img src=""</h1>
+<h1 align='center'>Konnichiwa!!<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/26uflLQb82Qpj7ik8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/studiosoriginals-hello-hi-greetings-26uflLQb82Qpj7ik8">via GIPHY</a></p></h1>
 
 <h1>
 <a href="https://git.io/typing.svg">
