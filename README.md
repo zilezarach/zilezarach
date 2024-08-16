@@ -25,5 +25,5 @@
 </p>
 <h1>My Socials</h1>
 <p align='center'>
-  <a href="https://twitter.com/zilezarach"target="_blank"><img alt="X" src="https://img.shields.io/badge/-X-007ACC?&style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://twitter.com/zilezarach"target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-X-007ACC?&style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
