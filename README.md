@@ -5,5 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&pause=1000&width=435&lines=Ox+Zile!...;A+Software+Developer+...;+Web+Designer...;SudoLover🖤&center=true&size=25" alt="Typing SVG" />
 </a>
 </h1>
-<p align='center'>Hello my name is Stephen Karani alias 0x_zile from Nairobi Kenya who is a passionate coder and lover of machines</p>
+<p align='center'>Hello my name is Stephen Karani alias 0x_zile from Nairobi Kenya who is a passionate coder and lover of machines a daily linux nerd with cracking addiction for computer </p>
 <h3 align='center'>Tools, Frameworks and Languages that I currently use:</h3>
+<p>
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+</p>
