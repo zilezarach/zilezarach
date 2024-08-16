@@ -19,3 +19,8 @@
     <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-43853d?style=flat-square&logo=solidity&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zilezarach&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodyRacks&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
