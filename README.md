@@ -5,4 +5,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&pause=1000&width=435&lines=Ox+Zile!...;A+Software+Developer+...;+Web+Designer...;SudoLover🖤&center=true&size=25" alt="Typing SVG" />
 </a>
 </h1>
-<h1>Hello My name is Stephen alias 0x_zile</h1>
+<p>Hello my name is Stephen Karani alias 0x_zile, a passionate coder and lover of machines </p>
