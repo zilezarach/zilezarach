@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&pause=1000&width=435&lines=Ox+Zile!...;A+Software+Developer+...;+Web+Designer...;SudoLover🖤&center=true&size=25" alt="Typing SVG" />
 </a>
 </h1>
-<p align='center'>Hello my name is Stephen Karani alias 0x_zile from Nairobi Kenya who is a passionate coder and lover of machines, a daily linux nerd with crack like addiction for computer architecture </p>
+<p align='center'>Hello my name is Stephen Karani alias 0x_zile from Nairobi Kenya who is a passionate coder and lover of machines, a daily linux nerd with crack like addiction for computer architecture and Electronics </p>
 <h3 align='center'>Tools, Frameworks and Languages that I currently use:</h3>
 <p align='center'>
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -16,4 +16,5 @@
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-4049d39?style=flat-square&logo=javascript&logoColor=white"/>
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-007ACC?style=flat-square&logo=linux&logoColor=white"/>
+    <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-43853d?style=flat-square&logo=solidity&logoColor=white"/>
 </p>
