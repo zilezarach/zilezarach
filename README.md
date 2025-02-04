@@ -24,7 +24,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zilezarach&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodyRacks&theme=radical" alt="GitHub Streak Stats"/>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<h1>📌 Most Used Languages</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilezarach&layout=compact&theme=radical" alt="Most Used Languages"/>
+</p>
 <h1>My Socials</h1>
 <p align='center'>
   <a href="https://twitter.com/stevezarachii"target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-007ACC?&style=for-the-badge&logo=X&logoColor=white"/></a>
