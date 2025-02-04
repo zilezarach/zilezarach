@@ -18,7 +18,7 @@
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-007ACC?style=flat-square&logo=linux&logoColor=white"/>
     <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-43853d?style=flat-square&logo=solidity&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white" />
 </p>
 <h1>Github Stats</h1>
 <p align="center">
