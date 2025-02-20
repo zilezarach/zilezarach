@@ -19,6 +19,12 @@
     <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-43853d?style=flat-square&logo=solidity&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="NeoVim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=fff"/>
+  <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=fff" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
 </p>
 <h1>Github Stats</h1>
 <p align="center">
