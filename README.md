@@ -2,7 +2,7 @@
 
 <h1 align='center'>
 <a href="https://git.io/typing.svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&pause=1000&width=435&lines=Ox+Zile!...;A+Software+Developer+...;+Web+Designer...;SudoLover🖤&center=true&size=25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&pause=1000&width=435&lines=Ox+Zile!...;A+Software+Developer+...;+Reverse+Engineer...;SudoLover🖤&center=true&size=25" alt="Typing SVG" />
 </a>
 </h1>
 <p align='center'>Hello my name is Stephen Karani alias 0x_zile from Nairobi Kenya who is a passionate coder and lover of machines, a daily linux nerd with crack like addiction for computer architecture and Electronics </p>
