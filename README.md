@@ -59,6 +59,6 @@
 ```
 
 📊 Github Diagnostics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stevezarachii&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%"/> <img src="https://streak-stats.demolab.com/?user=zilezarach&theme=radical&border_radius=10" width="48%"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stevezarachii&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%"/> <img src="https://github-readme-stats.vercel.app/api?username=zilezarach&show_icons=true&theme=radical&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" /> </p>
 📫 Connect with me
 <p align="left"> <a href="https://www.linkedin.com/in/stephen-kimathi-57b24333b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/stevezarachii" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> </p> 
