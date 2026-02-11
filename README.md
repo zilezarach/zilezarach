@@ -33,14 +33,14 @@
 
 ### 📊 Github Diagnostics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zilezarach&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodyRacks&theme=radical&border_radius=10" alt="GitHub Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=stevezarachii&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=stevezarachii&theme=radical&border_radius=10" alt="GitHub Streak Stats" width="48%"/>
 </p>
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_USER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Stephen Karani" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_USER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x_zile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stephen-kimathi-57b24333b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Stephen Karani" /></a>
+<a href="https://x.com/stevezarachii" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="stevezarachii" /></a>
 </p>
