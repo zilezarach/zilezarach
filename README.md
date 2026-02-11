@@ -58,7 +58,7 @@
 > I discover them.
 ```
 
-📊 Github Diagnostics
+### 📊 Github Diagnostics
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zilezarach&show_icons=true&theme=radical" width="48%"/>
@@ -66,5 +66,5 @@
 </p>
 
 
-📫 Connect with me
+### 📫 Connect with me
 <p align="left"> <a href="https://www.linkedin.com/in/stephen-kimathi-57b24333b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/stevezarachii" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> </p> 
