@@ -61,7 +61,7 @@
 📊 Github Diagnostics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zilezarach&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zilezarach&show_icons=true&theme=radical" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=zilezarach&theme=radical&border_radius=10" width="48%"/>
 </p>
 
